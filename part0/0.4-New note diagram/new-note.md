@@ -1,8 +1,8 @@
-# Diagram depicting the situation where the user creates a new note on the page
+# Diagram depicting the situation where the user creates a new note on the page  
 
-ssequenceDiagram
-    participant browser
-    participant server
+sequenceDiagram  
+    participant browser  
+    participant server  
 
     Note right of browser: The user types a note in the text field and clicks "Save"
 
