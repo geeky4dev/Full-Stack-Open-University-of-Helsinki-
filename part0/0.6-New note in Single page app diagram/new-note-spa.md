@@ -1,6 +1,7 @@
 # Diagram depicting the situation where the user creates a new note using the single-page version of the app.
 
 sequenceDiagram
+
     participant browser
     participant server
 
