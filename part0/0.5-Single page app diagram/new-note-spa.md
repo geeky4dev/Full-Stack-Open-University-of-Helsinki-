@@ -1,6 +1,7 @@
 # Diagram depicting the situation where the user goes to the single-page app version of the notes app
 
 sequenceDiagram
+
     participant browser
     participant server
 
