@@ -1,6 +1,8 @@
 # Diagram depicting the situation where the user creates a new note on the page  
 
-sequenceDiagram  
+
+sequenceDiagram 
+
     participant browser  
     participant server  
 
